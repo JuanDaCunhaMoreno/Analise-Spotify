@@ -31,4 +31,4 @@ O painel foi construído para responder às seguintes perguntas:
 ## 👨‍💻 Autor
 
 
-* **LinkedIn:** [https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222]
+* **LinkedIn:** https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222
