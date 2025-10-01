@@ -8,7 +8,6 @@ O painel final responde a perguntas sobre popularidade de artistas e gêneros, c
 
 O dashboard interativo foi desenvolvido no Power BI para consolidar todos os insights de forma clara e visual. Ele apresenta os principais KPIs, análises de correlação, distribuição e rankings.
 
-*(Aqui você deve colocar a imagem do seu dashboard. Faça o upload da imagem para o repositório e substitua o link abaixo)*
 ![Dashboard Spotify](DashboardPronto.png)
 
 
@@ -32,4 +31,4 @@ O painel foi construído para responder às seguintes perguntas:
 ## 👨‍💻 Autor
 
 
-* **LinkedIn:** [Seu Perfil do LinkedIn]
+* **LinkedIn:** [https://www.linkedin.com/in/juan-da-cunha-moreno-29752a222]
